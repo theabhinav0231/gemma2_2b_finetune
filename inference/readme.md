@@ -1,1 +1,1 @@
-Contains code to inference gemma-2b-it model locally.
+Contains code to inference gemma-2b-it model.
